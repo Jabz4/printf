@@ -1,47 +1,3 @@
-main.h
-
-Who has access
-
-O
-
-System properties
-
-Type
-
-C
-
-Size
-
-3 KB
-
-Storage used
-
-3 KB
-
-Location
-
-printf
-
-Owner
-
-Ojo Samuel
-
-Modified
-
-Oct 19, 2022 by Ojo Samuel
-
-Opened
-
-11:36 AM by me
-
-Created
-
-Oct 19, 2022
-
-No description
-
-Viewers can download
-
 #ifndef MAIN_H
 
 #define MAIN_H
@@ -274,4 +230,4 @@ long int convert_size_unsgnd(unsigned long int num, int size);
 
 
 
-#endif /* MAIN_H */
+#endif /* MAIN_H /
